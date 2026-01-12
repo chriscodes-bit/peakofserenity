@@ -1,6 +1,6 @@
 ---
 date: '2026-01-12T13:51:27+01:00'
-draft: true
+draft: false
 title: 'Windwalker PvE Guide'
 summary: 'Builds, Talents, Tips & Tricks.'
 toc: true

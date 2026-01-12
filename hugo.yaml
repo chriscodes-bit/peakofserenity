@@ -1,9 +1,8 @@
-baseURL: https://chriscodes-bit.github.io/peakofserenity/
+baseURL: https://example.org/
 languageCode: en-us
 title: Peak of Serenity
 
-
-theme: ["PaperMod"]
+theme: PaperMod
 
 menu:
   main:
@@ -17,5 +16,5 @@ menu:
       weight: 20
     - identifier: moistweaver
       name: moistweaver
-      url: /moistweaver/
+      url: /mistweaver/
       weight: 30
