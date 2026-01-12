@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/peakofserenity/brewmaster/</loc>
+    <loc>https://chriscodes-bit.github.io/peakofserenity/brewmaster/</loc>
     <lastmod>2026-01-12T14:34:20+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/peakofserenity/mistweaver/</loc>
+    <loc>https://chriscodes-bit.github.io/peakofserenity/mistweaver/</loc>
     <lastmod>2026-01-12T14:34:12+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/peakofserenity/windwalker/posts/windwalker_guide/</loc>
+    <loc>https://chriscodes-bit.github.io/peakofserenity/windwalker/posts/windwalker_guide/</loc>
     <lastmod>2026-01-12T13:51:27+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/peakofserenity/windwalker/</loc>
+    <loc>https://chriscodes-bit.github.io/peakofserenity/windwalker/</loc>
     <lastmod>2026-01-12T13:50:33+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/peakofserenity/</loc>
+    <loc>https://chriscodes-bit.github.io/peakofserenity/</loc>
     <lastmod>2026-01-12T13:48:19+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/peakofserenity/categories/</loc>
+    <loc>https://chriscodes-bit.github.io/peakofserenity/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/peakofserenity/tags/</loc>
+    <loc>https://chriscodes-bit.github.io/peakofserenity/tags/</loc>
   </url>
 </urlset>

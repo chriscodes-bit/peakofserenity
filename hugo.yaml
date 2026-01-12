@@ -3,6 +3,7 @@ languageCode: en-us
 title: Peak of Serenity
 
 theme: PaperMod
+canonifyURLs: true
 
 menu:
   main:
