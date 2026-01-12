@@ -9,13 +9,13 @@ menu:
   main:
     - identifier: windwalker
       name: windwalker
-      url: /windwalker/
+      url: /windwalker/posts/
       weight: 10
     - identifier: brewmaster
       name: brewmaster
-      url: /brewmaster/
+      url: /brewmaster/posts/
       weight: 20
     - identifier: moistweaver
       name: moistweaver
-      url: /mistweaver/
+      url: /mistweaver/posts/
       weight: 30
