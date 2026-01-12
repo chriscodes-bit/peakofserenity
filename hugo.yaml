@@ -3,19 +3,41 @@ languageCode: en-us
 title: Peak of Serenity
 
 theme: PaperMod
-canonifyURLs: true
+
+pagination:
+  disableAliases: false
+  pagerSize: 5
 
 menu:
   main:
     - identifier: windwalker
       name: windwalker
-      url: /windwalker/posts/
+      url: /windwalker/
       weight: 10
     - identifier: brewmaster
       name: brewmaster
-      url: /brewmaster/posts/
+      url: /brewmaster/
       weight: 20
     - identifier: moistweaver
       name: moistweaver
-      url: /mistweaver/posts/
+      url: /mistweaver/
       weight: 30
+
+params:
+  homeInfoParams:
+    Title: "Welcome to Peak of Serenity!"
+    Content: "This is **the place for information** if you play a Brewmaster, Mistweaver or Windwalker Monk in World of Warcraft."
+
+  socialIcons:
+      - name: github
+        title: View Source on Github
+        url: "https://github.com/adityatelange/hugo-PaperMod"
+      - name: discord
+        title: Join discord community
+        url: "https://discord.gg/peakofserenity"
+      - name: wowhead
+        title: Read the guide on Wowhead
+        url: "https://wowhead.com/"
+      - name: icy-veins
+        title: Read the guide on Icy-veins
+        url: "https://icy-veins.com/"

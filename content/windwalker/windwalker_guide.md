@@ -3,7 +3,7 @@ date: '2026-01-12T13:51:27+01:00'
 draft: false
 title: 'Windwalker PvE Guide'
 summary: 'Builds, Talents, Tips & Tricks.'
-toc: true
+ShowToc: true
 ---
 This guide is designed to be the full guide for Windwalker with all the information you need. 
 
