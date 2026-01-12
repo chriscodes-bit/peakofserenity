@@ -1,0 +1,21 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Peak of Serenity
+
+
+theme: ["PaperMod"]
+
+menu:
+  main:
+    - identifier: windwalker
+      name: windwalker
+      url: /windwalker/
+      weight: 10
+    - identifier: brewmaster
+      name: brewmaster
+      url: /brewmaster/
+      weight: 20
+    - identifier: moistweaver
+      name: moistweaver
+      url: /moistweaver/
+      weight: 30
